@@ -6,7 +6,7 @@ import Counter from './components/Counter';
 function App() {
   return (
     <div className="App">
-      <Header title="React Starter Project 🚀" />
+      <Header title="React Starter Project  Now🚀" />
       <Counter />
     </div>
   );
