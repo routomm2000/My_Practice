@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
       <Header title="React Starter Project  Now🚀" />
-      <title>Hii Omm!!!!!!!!!!!!</title>
+      <title>Hii Omm!!!!!!!!!!!! What's up!!!!!!!!!!!!</title>
       <Counter />
     </div>
   );
